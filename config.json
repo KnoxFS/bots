@@ -1,0 +1,11 @@
+{
+  "bot_token": "1815277910:AAEvwTl7OxuuCjaqjlCRvWTh2LgeHr42nOU",
+  "port": 12345,
+  "gh_webhooks": {
+    "Codertocat/Hello-World": {
+      "chat_id": -1001443309866,
+      "secret": "FPAh9pwRHCLpRL7j"
+
+    }
+  }
+}
